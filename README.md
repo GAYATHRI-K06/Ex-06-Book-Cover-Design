@@ -112,8 +112,8 @@ footer{
 
 ``````
 ## output
+![Screenshot 2023-12-21 093006](https://github.com/GAYATHRI-K06/Ex-06-Book-Cover-Design/assets/145742742/ad6205bb-d7e8-4666-b2c7-af4ed4730912)
 
-![Alt text](<Screenshot 2023-12-21 093006-1.png>)
 
 ## Result
 
