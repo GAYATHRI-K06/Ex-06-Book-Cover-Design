@@ -113,7 +113,7 @@ footer{
 ``````
 ## output
 
-![Alt text](<Screenshot 2023-12-21 093006.png>)
+![Alt text](<Screenshot 2023-12-21 093006-1.png>)
 
 ## Result
 
